@@ -1,0 +1,16 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Data.Entities
+{
+    public class Book
+    {
+        [Key]
+        public string BookId { get; set; }
+        public string BookName { get; set; }
+        public string Author { get; set; }
+        public decimal Price { get; set; }
+
+        public DateTime PublishedDate { get; set; }
+    }
+}
+    

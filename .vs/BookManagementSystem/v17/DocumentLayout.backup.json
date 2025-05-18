@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\navee\\Desktop\\BookManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CFE677-5C56-43A5-8728-03C59A1C73B1}|src\\Business\\Business.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\business\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CFE677-5C56-43A5-8728-03C59A1C73B1}|src\\Business\\Business.csproj|solutionrelative:src\\business\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CFE677-5C56-43A5-8728-03C59A1C73B1}|src\\Business\\Business.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\business\\book\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CFE677-5C56-43A5-8728-03C59A1C73B1}|src\\Business\\Business.csproj|solutionrelative:src\\business\\book\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E2AEDB-9B33-4B8B-A02A-5171A15ACC90}|src\\Models\\Models.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\models\\user\\createuserrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E2AEDB-9B33-4B8B-A02A-5171A15ACC90}|src\\Models\\Models.csproj|solutionrelative:src\\models\\user\\createuserrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163D8E07-7AB5-43B5-B63C-B05FF7FAAF23}|src\\SharedKernel\\SharedKernel.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\sharedkernel\\validation\\passwordvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163D8E07-7AB5-43B5-B63C-B05FF7FAAF23}|src\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\sharedkernel\\validation\\passwordvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E2AEDB-9B33-4B8B-A02A-5171A15ACC90}|src\\Models\\Models.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\models\\book\\createbookrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E2AEDB-9B33-4B8B-A02A-5171A15ACC90}|src\\Models\\Models.csproj|solutionrelative:src\\models\\book\\createbookrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B610681-0359-4783-BB60-2CEBFCD63429}|src\\WebAPI\\WebAPI.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\webapi\\controller\\book\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B610681-0359-4783-BB60-2CEBFCD63429}|src\\WebAPI\\WebAPI.csproj|solutionrelative:src\\webapi\\controller\\book\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163D8E07-7AB5-43B5-B63C-B05FF7FAAF23}|src\\SharedKernel\\SharedKernel.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\sharedkernel\\validation\\usernamevalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163D8E07-7AB5-43B5-B63C-B05FF7FAAF23}|src\\SharedKernel\\SharedKernel.csproj|solutionrelative:src\\sharedkernel\\validation\\usernamevalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B610681-0359-4783-BB60-2CEBFCD63429}|src\\WebAPI\\WebAPI.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\webapi\\middleware\\requestmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B610681-0359-4783-BB60-2CEBFCD63429}|src\\WebAPI\\WebAPI.csproj|solutionrelative:src\\webapi\\middleware\\requestmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B610681-0359-4783-BB60-2CEBFCD63429}|src\\WebAPI\\WebAPI.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B610681-0359-4783-BB60-2CEBFCD63429}|src\\WebAPI\\WebAPI.csproj|solutionrelative:src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B610681-0359-4783-BB60-2CEBFCD63429}|src\\WebAPI\\WebAPI.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\webapi\\controller\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B610681-0359-4783-BB60-2CEBFCD63429}|src\\WebAPI\\WebAPI.csproj|solutionrelative:src\\webapi\\controller\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B610681-0359-4783-BB60-2CEBFCD63429}|src\\WebAPI\\WebAPI.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\webapi\\controller\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B610681-0359-4783-BB60-2CEBFCD63429}|src\\WebAPI\\WebAPI.csproj|solutionrelative:src\\webapi\\controller\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CFE677-5C56-43A5-8728-03C59A1C73B1}|src\\Business\\Business.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\business\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CFE677-5C56-43A5-8728-03C59A1C73B1}|src\\Business\\Business.csproj|solutionrelative:src\\business\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E2AEDB-9B33-4B8B-A02A-5171A15ACC90}|src\\Models\\Models.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\models\\book\\getallbookresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E2AEDB-9B33-4B8B-A02A-5171A15ACC90}|src\\Models\\Models.csproj|solutionrelative:src\\models\\book\\getallbookresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924C9B0F-3661-4A11-BAB3-689126929F84}|src\\Data\\Data.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\data\\datacontext\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924C9B0F-3661-4A11-BAB3-689126929F84}|src\\Data\\Data.csproj|solutionrelative:src\\data\\datacontext\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CFE677-5C56-43A5-8728-03C59A1C73B1}|src\\Business\\Business.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\business\\book\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CFE677-5C56-43A5-8728-03C59A1C73B1}|src\\Business\\Business.csproj|solutionrelative:src\\business\\book\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B610681-0359-4783-BB60-2CEBFCD63429}|src\\WebAPI\\WebAPI.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B610681-0359-4783-BB60-2CEBFCD63429}|src\\WebAPI\\WebAPI.csproj|solutionrelative:src\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CFE677-5C56-43A5-8728-03C59A1C73B1}|src\\Business\\Business.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9CFE677-5C56-43A5-8728-03C59A1C73B1}|src\\Business\\Business.csproj|solutionrelative:src\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924C9B0F-3661-4A11-BAB3-689126929F84}|src\\Data\\Data.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\data\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924C9B0F-3661-4A11-BAB3-689126929F84}|src\\Data\\Data.csproj|solutionrelative:src\\data\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924C9B0F-3661-4A11-BAB3-689126929F84}|src\\Data\\Data.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{924C9B0F-3661-4A11-BAB3-689126929F84}|src\\Data\\Data.csproj|solutionrelative:src\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E2AEDB-9B33-4B8B-A02A-5171A15ACC90}|src\\Models\\Models.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\models\\book\\updatebookrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E2AEDB-9B33-4B8B-A02A-5171A15ACC90}|src\\Models\\Models.csproj|solutionrelative:src\\models\\book\\updatebookrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B610681-0359-4783-BB60-2CEBFCD63429}|src\\WebAPI\\WebAPI.csproj|c:\\users\\navee\\desktop\\bookmanagement\\src\\webapi\\extensions\\webapiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B610681-0359-4783-BB60-2CEBFCD63429}|src\\WebAPI\\WebAPI.csproj|solutionrelative:src\\webapi\\extensions\\webapiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserNameValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\SharedKernel\\Validation\\UserNameValidationAttribute.cs",
+              "RelativeDocumentMoniker": "src\\SharedKernel\\Validation\\UserNameValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\SharedKernel\\Validation\\UserNameValidationAttribute.cs",
+              "RelativeToolTip": "src\\SharedKernel\\Validation\\UserNameValidationAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:36:00.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\SharedKernel\\Validation\\PasswordValidationAttribute.cs",
+              "RelativeDocumentMoniker": "src\\SharedKernel\\Validation\\PasswordValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\SharedKernel\\Validation\\PasswordValidationAttribute.cs",
+              "RelativeToolTip": "src\\SharedKernel\\Validation\\PasswordValidationAttribute.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:35:04.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RequestMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\WebAPI\\MiddleWare\\RequestMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\WebAPI\\MiddleWare\\RequestMiddleware.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\WebAPI\\MiddleWare\\RequestMiddleware.cs",
+              "RelativeToolTip": "src\\WebAPI\\MiddleWare\\RequestMiddleware.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:00:54.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\WebAPI\\Controller\\Book\\BookController.cs",
+              "RelativeDocumentMoniker": "src\\WebAPI\\Controller\\Book\\BookController.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\WebAPI\\Controller\\Book\\BookController.cs",
+              "RelativeToolTip": "src\\WebAPI\\Controller\\Book\\BookController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:07:29.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateBookRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Models\\Book\\CreateBookRequestModel.cs",
+              "RelativeDocumentMoniker": "src\\Models\\Book\\CreateBookRequestModel.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Models\\Book\\CreateBookRequestModel.cs",
+              "RelativeToolTip": "src\\Models\\Book\\CreateBookRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:27:18.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateUserRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Models\\User\\CreateUserRequestModel.cs",
+              "RelativeDocumentMoniker": "src\\Models\\User\\CreateUserRequestModel.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Models\\User\\CreateUserRequestModel.cs",
+              "RelativeToolTip": "src\\Models\\User\\CreateUserRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:15:12.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Business\\Book\\BookService.cs",
+              "RelativeDocumentMoniker": "src\\Business\\Book\\BookService.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Business\\Book\\BookService.cs",
+              "RelativeToolTip": "src\\Business\\Book\\BookService.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAUwGMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:04:32.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Business\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "src\\Business\\User\\UserService.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Business\\User\\UserService.cs",
+              "RelativeToolTip": "src\\Business\\User\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:05:59.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Data\\DataContext\\ApplicationDataContext.cs",
+              "RelativeDocumentMoniker": "src\\Data\\DataContext\\ApplicationDataContext.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Data\\DataContext\\ApplicationDataContext.cs",
+              "RelativeToolTip": "src\\Data\\DataContext\\ApplicationDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:59:36.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "src\\WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T13:25:49.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\WebAPI\\Controller\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "src\\WebAPI\\Controller\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\WebAPI\\Controller\\BaseApiController.cs",
+              "RelativeToolTip": "src\\WebAPI\\Controller\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:07:59.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllBookResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Models\\Book\\GetAllBookResponseModel.cs",
+              "RelativeDocumentMoniker": "src\\Models\\Book\\GetAllBookResponseModel.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Models\\Book\\GetAllBookResponseModel.cs",
+              "RelativeToolTip": "src\\Models\\Book\\GetAllBookResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:30:08.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\WebAPI\\Program.cs",
+              "RelativeToolTip": "src\\WebAPI\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwGkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:32:20.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\WebAPI\\Controller\\User\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\WebAPI\\Controller\\User\\UserController.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\WebAPI\\Controller\\User\\UserController.cs",
+              "RelativeToolTip": "src\\WebAPI\\Controller\\User\\UserController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswCUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:06:52.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Business\\User\\IUserService.cs",
+              "RelativeDocumentMoniker": "src\\Business\\User\\IUserService.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Business\\User\\IUserService.cs",
+              "RelativeToolTip": "src\\Business\\User\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:05:22.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Business\\Book\\IBookService.cs",
+              "RelativeDocumentMoniker": "src\\Business\\Book\\IBookService.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Business\\Book\\IBookService.cs",
+              "RelativeToolTip": "src\\Business\\Book\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:04:17.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Data\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "src\\Data\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Data\\Entities\\Book.cs",
+              "RelativeToolTip": "src\\Data\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:00:34.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Business.csproj",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "src\\Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Business\\Business.csproj",
+              "RelativeToolTip": "src\\Business\\Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T13:01:01.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "src\\Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Data\\Data.csproj",
+              "RelativeToolTip": "src\\Data\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T13:01:17.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateBookRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Models\\Book\\UpdateBookRequestModel.cs",
+              "RelativeDocumentMoniker": "src\\Models\\Book\\UpdateBookRequestModel.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\Models\\Book\\UpdateBookRequestModel.cs",
+              "RelativeToolTip": "src\\Models\\Book\\UpdateBookRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:30:38.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WebApiExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\WebAPI\\Extensions\\WebApiExtensions.cs",
+              "RelativeDocumentMoniker": "src\\WebAPI\\Extensions\\WebApiExtensions.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookManagement\\src\\WebAPI\\Extensions\\WebApiExtensions.cs",
+              "RelativeToolTip": "src\\WebAPI\\Extensions\\WebApiExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:13:23.818Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1882,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
